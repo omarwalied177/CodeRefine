@@ -64,6 +64,4 @@ By the end of this training, we aim to build **clean, efficient, and professiona
 ```
 
 ---
-
-تحب أكتبلك كمان **Contribution Guide** منفصلة (CONTRIBUTING.md) فيها قواعد الكوميت، تسمية الفروع، وإزاي نراجع الكود؟
 ```
