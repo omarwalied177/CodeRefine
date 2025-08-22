@@ -60,8 +60,3 @@ finals-prep/    # Mock projects simulating the final round
 ## 🏆 Goal
 
 By the end of this training, we aim to build **clean, efficient, and professional-grade systems**—and secure **first place in the CodeRefine Competition**! 🥇
-
-```
-
----
-```
